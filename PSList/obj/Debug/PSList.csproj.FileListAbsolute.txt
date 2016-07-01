@@ -1,0 +1,24 @@
+C:\Users\Valerii\Desktop\Playstation Friends List\Playstation Friends List\bin\Debug\PSList.exe.config
+C:\Users\Valerii\Desktop\Playstation Friends List\Playstation Friends List\bin\Debug\PSList.exe
+C:\Users\Valerii\Desktop\Playstation Friends List\Playstation Friends List\bin\Debug\PSList.pdb
+C:\Users\Valerii\Desktop\Playstation Friends List\Playstation Friends List\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Valerii\Desktop\Playstation Friends List\Playstation Friends List\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Valerii\Desktop\Playstation Friends List\Playstation Friends List\obj\Debug\PSList.csprojResolveAssemblyReference.cache
+C:\Users\Valerii\Desktop\Playstation Friends List\Playstation Friends List\obj\Debug\PSList.FormMain.resources
+C:\Users\Valerii\Desktop\Playstation Friends List\Playstation Friends List\obj\Debug\PSList.FormSignIn.resources
+C:\Users\Valerii\Desktop\Playstation Friends List\Playstation Friends List\obj\Debug\PSList.Properties.Resources.resources
+C:\Users\Valerii\Desktop\Playstation Friends List\Playstation Friends List\obj\Debug\PSList.csproj.GenerateResource.Cache
+C:\Users\Valerii\Desktop\Playstation Friends List\Playstation Friends List\obj\Debug\PSList.exe
+C:\Users\Valerii\Desktop\Playstation Friends List\Playstation Friends List\obj\Debug\PSList.pdb
+C:\Users\Valerii\Desktop\PSList\PSList\bin\Debug\PSList.exe.config
+C:\Users\Valerii\Desktop\PSList\PSList\obj\Debug\PSList.exe
+C:\Users\Valerii\Desktop\PSList\PSList\obj\Debug\PSList.pdb
+C:\Users\Valerii\Desktop\PSList\PSList\bin\Debug\PSList.exe
+C:\Users\Valerii\Desktop\PSList\PSList\bin\Debug\PSList.pdb
+C:\Users\Valerii\Desktop\PSList\PSList\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Valerii\Desktop\PSList\PSList\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Valerii\Desktop\PSList\PSList\obj\Debug\PSList.csprojResolveAssemblyReference.cache
+C:\Users\Valerii\Desktop\PSList\PSList\obj\Debug\PSList.FormMain.resources
+C:\Users\Valerii\Desktop\PSList\PSList\obj\Debug\PSList.FormSignIn.resources
+C:\Users\Valerii\Desktop\PSList\PSList\obj\Debug\PSList.Properties.Resources.resources
+C:\Users\Valerii\Desktop\PSList\PSList\obj\Debug\PSList.csproj.GenerateResource.Cache
